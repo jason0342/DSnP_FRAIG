@@ -1,0 +1,16 @@
+cirr tests.fraig/ISCAS85/C1908.aag
+usage
+cirp 
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirp
+cirp -n
+cirp -fl
+cirg 1 -fanout 100
+cirg 2 -fanout 100
+cirg 3 -fanout 100
+cirg 4 -fanout 100
+usage
+q -f

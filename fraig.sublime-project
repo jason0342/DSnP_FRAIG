@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"path": "src"
+		}
+	],
+	"SublimeLinter":
+	{
+		"linters":
+		{
+			"clang": {
+				"include_dirs": [
+					"${project_folder}/src/cir",
+					"${project_folder}/include"
+				]
+			}
+		}
+		
+	}
+}

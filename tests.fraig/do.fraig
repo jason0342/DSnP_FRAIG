@@ -1,0 +1,24 @@
+cirr sim15.aag
+cirsw
+ciropt
+cirstr
+cirsim -r
+cirsim -r
+cirsim -r
+cirsim -r
+cirsim -r
+cirsim -r
+cirsim -r
+cirsim -r
+cirsim -r
+cirsim -r
+cirsim -r
+cirsim -r
+usage
+cirfraig
+usage
+cirp
+cirp -n
+cirwrite -o sim15.aag.out
+usage
+q -f

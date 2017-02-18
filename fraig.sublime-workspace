@@ -1,0 +1,1415 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"upd",
+				"updateUnused	(cirMgr.h)"
+			],
+			[
+				"upda",
+				"updateUnused"
+			],
+			[
+				"optim",
+				"optimization	(cirMgr.h)"
+			],
+			[
+				"aig",
+				"aiglist"
+			],
+			[
+				"FEC",
+				"FECId"
+			],
+			[
+				"fe",
+				"FECId"
+			],
+			[
+				"rand",
+				"randomSim	(cirMgr.h)"
+			],
+			[
+				"com",
+				"comparePriority	(cirMgr.h)"
+			],
+			[
+				"maxs",
+				"maxSimNo"
+			],
+			[
+				"gro",
+				"groupSatCount"
+			],
+			[
+				"cle",
+				"clearFECList"
+			],
+			[
+				"merg",
+				"mergeGate"
+			],
+			[
+				"dfso",
+				"_dfsOrder"
+			],
+			[
+				"_d",
+				"_dfsOrder"
+			],
+			[
+				"prio",
+				"priority"
+			],
+			[
+				"AIGG",
+				"AIG_GATE"
+			],
+			[
+				"remov",
+				"removeUnusedFEC"
+			],
+			[
+				"remo",
+				"removeUnusedFEC"
+			],
+			[
+				"ini",
+				"iniFECList	(cirMgr.h)"
+			],
+			[
+				"unusl",
+				"_unUsedList"
+			],
+			[
+				"_unu",
+				"_unUsedList"
+			],
+			[
+				"rem",
+				"removeUnusedFEC	(cirMgr.h)"
+			],
+			[
+				"fr",
+				"fraigCount"
+			],
+			[
+				"_Un",
+				"_unUsedList"
+			],
+			[
+				"begin",
+				"beginend	$1.begin(), $1.end()"
+			],
+			[
+				"fra",
+				"fraigHeap"
+			],
+			[
+				"ass",
+				"assumeRelease"
+			],
+			[
+				"_s",
+				"_simOut	(cirGate.h)"
+			],
+			[
+				"corre",
+				"correctFECfirst"
+			],
+			[
+				"corr",
+				"correctFECfirst"
+			],
+			[
+				"CirP",
+				"CirPiGate	(cirGate.h)"
+			],
+			[
+				"ge",
+				"getId	(cirGate.h)"
+			],
+			[
+				"CONST",
+				"CONST_GATE	(cirGate.h)"
+			],
+			[
+				"gett",
+				"getType	(cirGate.h)"
+			],
+			[
+				"isCo",
+				"isCONST1	(cirGate.h)"
+			],
+			[
+				"CONT",
+				"CONST0FANIN"
+			],
+			[
+				"Cirg",
+				"CirGate	(cirGate.h)"
+			],
+			[
+				"swep",
+				"sweepGate	(cirMgr.h)"
+			],
+			[
+				"buc",
+				"bucketNum"
+			],
+			[
+				"getid",
+				"getAIGid	(cirGate.h)"
+			],
+			[
+				"net",
+				"netAIG"
+			],
+			[
+				"set",
+				"setGlobalflag"
+			],
+			[
+				"gl",
+				"_globalFlag"
+			],
+			[
+				"und",
+				"_undefID"
+			],
+			[
+				"reportFa",
+				"reportFanin"
+			],
+			[
+				"_un",
+				"_unUsedList"
+			],
+			[
+				"_fl",
+				"_floatingList"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"se",
+				"setUndefID"
+			],
+			[
+				"del",
+				"delete"
+			],
+			[
+				"_in",
+				"_inlist"
+			],
+			[
+				"CirGa",
+				"CirGateIn	(cirGate.h)"
+			],
+			[
+				"link",
+				"linkID"
+			],
+			[
+				"ID",
+				"IdList	(cirMgr.h)"
+			],
+			[
+				"max",
+				"maxGateNo"
+			],
+			[
+				"line",
+				"lineNo"
+			],
+			[
+				"CIr",
+				"CirAigGate"
+			],
+			[
+				"cur",
+				"currentLine"
+			],
+			[
+				"mys",
+				"myStr2Int	(myString.cpp)"
+			],
+			[
+				"lex",
+				"lexOptions	(cmdParser.h)"
+			],
+			[
+				"get",
+				"getTypeStr"
+			],
+			[
+				"cirg",
+				"CirGate"
+			],
+			[
+				"vect",
+				"vector"
+			],
+			[
+				"BSTr",
+				"BSTreeNode"
+			],
+			[
+				"BST",
+				"BSTree"
+			],
+			[
+				"is",
+				"isPushing"
+			],
+			[
+				"pop",
+				"pop_back	(array.h)"
+			],
+			[
+				"_n",
+				"_node"
+			],
+			[
+				"ne",
+				"newNode"
+			],
+			[
+				"DL",
+				"DListNode"
+			],
+			[
+				"getM",
+				"getMem"
+			],
+			[
+				"geta",
+				"getArrListSize"
+			],
+			[
+				"dele",
+				"deleteArr	(memTest.h)"
+			],
+			[
+				"cmdext",
+				"CMD_OPT_EXTRA"
+			],
+			[
+				"getar",
+				"getArrListSize	(memTest.h)"
+			],
+			[
+				"mystr",
+				"myStr2Int"
+			],
+			[
+				"CMD_",
+				"CMD_OPT_ILLEGAL"
+			],
+			[
+				"CMD",
+				"CMD_OPT_MISSING"
+			],
+			[
+				"er",
+				"errorOption"
+			],
+			[
+				"new",
+				"newArrs	(memTest.h)"
+			],
+			[
+				"mySt",
+				"myStr2Int"
+			],
+			[
+				"Memt",
+				"MemTestObj"
+			],
+			[
+				"ob",
+				"_objList"
+			],
+			[
+				"getm",
+				"getMem"
+			],
+			[
+				"to",
+				"toSizeT"
+			],
+			[
+				"pus",
+				"pushFront"
+			],
+			[
+				"getme",
+				"getMemRecycleList"
+			],
+			[
+				"rec",
+				"recycleExist"
+			],
+			[
+				"n",
+				"_nextList"
+			],
+			[
+				"_b",
+				"_blockSize"
+			],
+			[
+				"next",
+				"_nextBlock"
+			],
+			[
+				"siz",
+				"SIZE_T"
+			],
+			[
+				"pos",
+				"possibleCmds"
+			],
+			[
+				"delete",
+				"deleteLine	(cmdParser.h)"
+			],
+			[
+				"poss",
+				"possableCmds"
+			],
+			[
+				"push",
+				"push_back"
+			],
+			[
+				"che",
+				"checkColIdx"
+			],
+			[
+				"le",
+				"lexSingleOption"
+			],
+			[
+				"ro",
+				"rowIdx"
+			],
+			[
+				"my",
+				"myStrNCmp"
+			],
+			[
+				"exec_",
+				"CMD_EXEC_ERROR"
+			],
+			[
+				"check",
+				"checkColIdx"
+			],
+			[
+				"size",
+				"size_t"
+			],
+			[
+				"error",
+				"errorOption	(cmdParser.h)"
+			],
+			[
+				"myst",
+				"myStrNCmp"
+			],
+			[
+				"string",
+				"string::npos"
+			],
+			[
+				"_dofile",
+				"_dofileStack"
+			],
+			[
+				"_dof",
+				"_dofileStack"
+			],
+			[
+				"ifs",
+				"ifstream"
+			],
+			[
+				"_do",
+				"_dofileStack	(cmdParser.h)"
+			],
+			[
+				"INT",
+				"INT_MAX"
+			],
+			[
+				"INT_",
+				"INT_MIN"
+			],
+			[
+				"ad",
+				"addData"
+			],
+			[
+				"_hi",
+				"_historyIdx"
+			],
+			[
+				"_",
+				"_readBuf"
+			],
+			[
+				"_r",
+				"_readBufEnd"
+			],
+			[
+				"_re",
+				"_readBuf"
+			],
+			[
+				"_h",
+				"_historyIdx"
+			],
+			[
+				"res",
+				"resetBufAndPrintPrompt"
+			],
+			[
+				"TAB",
+				"TAB_POSITION	(cmdParser.h)"
+			],
+			[
+				"move",
+				"moveBufPtr"
+			],
+			[
+				"_read",
+				"_readBufEnd"
+			],
+			[
+				"_rea",
+				"_readBufEnd"
+			],
+			[
+				"H",
+				"HOME_KEY"
+			],
+			[
+				"HOME",
+				"HOME_KEY"
+			],
+			[
+				"Arro",
+				"ARROW_KEY_FLAG"
+			],
+			[
+				"arrow",
+				"ARROW_KEY_FLAG"
+			],
+			[
+				"file",
+				"file"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/cir/cirGate.h",
+			"settings":
+			{
+				"buffer_size": 5245,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/cir/cirGate.cpp",
+			"settings":
+			{
+				"buffer_size": 4896,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/cir/cirMgr.h",
+			"settings":
+			{
+				"buffer_size": 2578,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/cir/cirMgr.cpp",
+			"settings":
+			{
+				"buffer_size": 16761,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/cir/cirOpt.cpp",
+			"settings":
+			{
+				"buffer_size": 4664,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/cir/cirFraig.cpp",
+			"settings":
+			{
+				"buffer_size": 11321,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/util/rnGen.h",
+			"settings":
+			{
+				"buffer_size": 824,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/cir/cirSim.cpp",
+			"settings":
+			{
+				"buffer_size": 8670,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/cir/cirCmd.cpp",
+			"settings":
+			{
+				"buffer_size": 15705,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/util/myHashMap.h",
+			"settings":
+			{
+				"buffer_size": 12927,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/cir/cirDef.h",
+			"settings":
+			{
+				"buffer_size": 828,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "linter ",
+		"selected_items":
+		[
+			[
+				"linter ",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"linter d",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"eanble",
+				"Package Control: Enable Package"
+			],
+			[
+				"ena",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"sublinter user",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"sublimelinter e",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"linter disab",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"sublimelinter ena",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"toggle linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"package control dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"package control up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pacaenab",
+				"Package Control: Enable Package"
+			],
+			[
+				"packagecontrol",
+				"Package Control: Discover Packages"
+			],
+			[
+				"clang",
+				"Clang Format: Set Path"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"fr",
+				"File: Rename"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jasonwang/Documents/ntu/DSnP/fraig/src",
+		"/Users/jasonwang/Documents/ntu/DSnP/fraig/src/cir",
+		"/Users/jasonwang/Documents/ntu/DSnP/fraig/src/util"
+	],
+	"file_history":
+	[
+		"/Users/jasonwang/Documents/ntu/DSnP/fraig/src/util/rnGen.h",
+		"/Users/jasonwang/Desktop/water3.py",
+		"/Users/jasonwang/Documents/ntu/DSnP/fraig/src/cir/cirSim.cpp",
+		"/Users/jasonwang/Documents/ntu/DSnP/fraig/src/cir/cirFraig.cpp",
+		"/Users/jasonwang/Documents/ntu/DSnP/fraig/fraig.sublime-project",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw7/src/task/taskMgr.cpp",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw7/src/util/myMinHeap.h",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw7/src/task/taskCmd.cpp",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw7/src/util/myHashSet.h",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw7/src/task/make.task",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw6/src/cir/cirCmd.cpp",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw6/src/cir/cirDef.h",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw6/src/cir/cirGate.cpp",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw6/src/cir/cirGate.h",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw6/src/cir/cirMgr.cpp",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw6/src/cir/cirMgr.h",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw6/hw6.sublime-project",
+		"/Users/jasonwang/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw5/src/Makefile.in",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw5/src/util/bst.h",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw5/src/util/dlist.h",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw5/src/util/array.h",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw5/dosearch",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw5/src/main/adtTest.h",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw5/hw5.sublime-project",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw5/src/util/make.util",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw5/do.all",
+		"/Users/jasonwang/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw4/src/mem/memMgr.h",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw4/src/mem/memTest.cpp",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw4/src/mem/memTest.h",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw4/src/mem/memCmd.cpp",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw4/src/mem/memCmd.h",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw4/hw4.sublime-project",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw4/src/util/util.h",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw3/src/cmd/cmdParser.h",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw3/src/cmd/cmdParser.cpp",
+		"/Users/jasonwang/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/usr/include/wchar.h",
+		"/Users/jasonwang/Library/Application Support/Sublime Text 3/Packages/User/DSnP_hw3.sublime-project",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw3/src/util/util.h",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw3/src/util/myString.cpp",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw3/src/db/dbCmd.cpp",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw3/src/cmd/cmdCommon.cpp",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw3/src/main/main.cpp",
+		"/Users/jasonwang/Desktop/test.cpp",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw3/src/db/dbTable.cpp",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw3/src/db/dbTable.h",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw3/src/test/test.cpp",
+		"/Users/jasonwang/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/jasonwang/Library/Application Support/Sublime Text 3/Packages/User/C++.sublime-settings",
+		"/Users/jasonwang/Library/Application Support/Sublime Text 3/Packages/C++ Snippets/README.md",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw1/b03901052_hw1 2/p2.cpp",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw3/src/cmd/cmdCommon.h",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw1/p2.cpp",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw2/main.cpp",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw2/Makefile",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw2/testAsc.cpp",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw2/cmdReader.cpp",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw2/cmdCharDef.cpp",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw2/cmdCharDef.h",
+		"/Users/jasonwang/Desktop/hw2/cmdParser.h",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw2/cmdParser.h",
+		"/Users/jasonwang/Documents/ntu/DSnP/hw2/test.cpp",
+		"/Users/jasonwang/.config/mpv/mpv.conf",
+		"/Users/jasonwang/Desktop/p2.cpp",
+		"/Users/jasonwang/Library/Application Support/Karabiner/private.xml",
+		"/Users/jasonwang/Desktop/courseConvert.py",
+		"/Users/jasonwang/Library/Application Support/Firefox/Profiles/b3n6c3g0.default/extensions/peraperakun@gmail.com/chrome/jperapera/content/config.js",
+		"/Users/jasonwang/Desktop/schedule.py",
+		"/Users/jasonwang/Library/Application Support/Firefox/Profiles/b3n6c3g0.default/extensions/peraperakun@gmail.com/chrome/jperapera.jar",
+		"/Users/jasonwang/Desktop/main.cpp",
+		"/Users/jasonwang/Desktop/course.h",
+		"/Users/jasonwang/Desktop/schedule.h",
+		"/Users/jasonwang/Developer/hello/hello.cpp",
+		"/Users/jasonwang/Developer/hello/untitled",
+		"/Users/jasonwang/Desktop/萬能鑑定士Q事件簿/OPS/page-0002.html",
+		"/Users/jasonwang/Desktop/萬能鑑定士Q事件簿/OPS/page-0001.html",
+		"/Users/jasonwang/Desktop/hw6/absheap.h",
+		"/Users/jasonwang/Desktop/hw6/testHeap.cpp",
+		"/Users/jasonwang/Desktop/hw6/heap.h",
+		"/Users/jasonwang/Desktop/hw5/tvector.h",
+		"/Users/jasonwang/Desktop/hw5/bonus.cpp",
+		"/Users/jasonwang/Desktop/hw5/myvector.cpp",
+		"/Users/jasonwang/Desktop/hw5/myvector.h",
+		"/Users/jasonwang/Desktop/hw5/tvector.cpp",
+		"/Users/jasonwang/Desktop/gcd.pl",
+		"/Users/jasonwang/Desktop/sroot.pl",
+		"/Users/jasonwang/Desktop/hw5/main.cpp",
+		"/Users/jasonwang/Desktop/hw4/hw4.cpp",
+		"/Users/jasonwang/Desktop/hw4/a.cpp",
+		"/Users/jasonwang/Desktop/hw4/output3",
+		"/Users/jasonwang/Desktop/hw4/output2",
+		"/Users/jasonwang/Desktop/hw4/output1",
+		"/Users/jasonwang/Desktop/hw3/HW03_b03901052/bonus.cpp",
+		"/Users/jasonwang/Desktop/bonus.cpp",
+		"/Users/jasonwang/Desktop/dicipher.cpp",
+		"/Users/jasonwang/Desktop/cipher.cpp",
+		"/Users/jasonwang/Desktop/hw2/base8.cpp"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"unusedset",
+			"_ids",
+			"priorityTable",
+			"reportGate",
+			"setkey",
+			"unused",
+			"sort",
+			"j",
+			"(*i)",
+			"solver",
+			"_ids[_poList[j]]->_simOut",
+			"; ",
+			"i",
+			"_FECList[i]",
+			"i",
+			"in0",
+			"in1",
+			"in0",
+			"--noAIG;",
+			"previous->",
+			"previous",
+			"t",
+			"T",
+			"unsigned",
+			"_inList",
+			"setGlobalflag",
+			"isUndef",
+			"_ids[id]->_inList[i]",
+			"_in",
+			"cirMgr",
+			"options[0]",
+			"ateList",
+			"type",
+			"vector<CirGate*>",
+			"getpos",
+			"s",
+			"_next",
+			"memmgr",
+			"getarraysize",
+			"snippet",
+			"snippets",
+			"auto_complete",
+			"highlight",
+			"possableCmds",
+			";\n",
+			"if (!checkColIdx(option, c)) return CMD_EXEC_ERROR;",
+			"cerr",
+			"overflow",
+			"after",
+			"mystrncmp",
+			"token",
+			"elements",
+			"initdbcmd",
+			"checkopt",
+			"parsecmd",
+			"CmdParser::read",
+			"cmdexec",
+			"double",
+			"reset",
+			"getChar",
+			"len",
+			"getChar",
+			"checkChar",
+			"getChar",
+			"checkChar",
+			"checkChar()",
+			"-100",
+			"body",
+			"Tvector",
+			"MyVector",
+			"n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/cir/cirGate.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3500,
+								3500
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++ Starting Kit/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1311.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/cir/cirGate.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4896,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4727,
+								4727
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++ Starting Kit/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3130.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/cir/cirMgr.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1844,
+								1844
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++ Starting Kit/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 89.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/cir/cirMgr.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16761,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16214,
+								16214
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++ Starting Kit/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 10608.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/cir/cirOpt.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4664,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1909,
+								1909
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++ Starting Kit/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 621.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/cir/cirFraig.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10876,
+								10876
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++ Starting Kit/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/util/rnGen.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 824,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++ Starting Kit/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/cir/cirSim.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8670,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2169,
+								2169
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++ Starting Kit/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1482.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/cir/cirCmd.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15705,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++ Starting Kit/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/util/myHashMap.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12927,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1426,
+								1426
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++ Starting Kit/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 502.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/cir/cirDef.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								790,
+								790
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++ Starting Kit/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.cc":
+	{
+		"height": 120.0
+	},
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 141.0
+	},
+	"pinned_build_system": "",
+	"project": "fraig.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"dbc",
+				"~/Documents/ntu/DSnP/hw3/src/db/dbCmd.cpp"
+			],
+			[
+				"my",
+				"~/Documents/ntu/DSnP/hw3/src/util/myString.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/ntu/DSnP/hw5/hw5.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 93.0,
+		"last_filter": "isInv",
+		"selected_items":
+		[
+			[
+				"isInv",
+				"isInv"
+			],
+			[
+				"isinv",
+				"outIsInv"
+			],
+			[
+				"mys",
+				"myStr2Int"
+			],
+			[
+				"",
+				"CmdParser::execOneCmd"
+			]
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

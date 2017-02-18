@@ -1,0 +1,17 @@
+#! /bin/csh
+set dofile=do.fraig
+rm -f $dofile
+echo "cirr $1" > $dofile
+echo "cirsw" >> $dofile
+echo "ciropt" >> $dofile
+echo "cirstrash" >> $dofile
+echo "cirsim -random" >> $dofile
+echo "usage" >> $dofile
+echo "cirfraig" >> $dofile
+echo "usage" >> $dofile
+echo "cirp" >> $dofile
+echo "cirp -n" >> $dofile
+echo "cirwrite -o $1.out" >> $dofile
+echo "usage" >> $dofile
+echo "q -f" >> $dofile
+../ref/fraig -f $dofile

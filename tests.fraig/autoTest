@@ -1,0 +1,4 @@
+#! /bin/bash
+../fraig -f $1 &> test-$1.txt
+../ref/fraig-mac -f $1 &> test-$1-ref.txt
+opendiff test-$1.txt test-$1-ref.txt

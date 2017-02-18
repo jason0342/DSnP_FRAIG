@@ -1,0 +1,17 @@
+cirr miter13.aag
+usage
+cirp
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -n
+cirp -fl
+cirg 1 -fanout 100
+cirg 2 -fanout 100
+cirg 3 -fanout 100
+cirg 4 -fanout 100
+usage
+q -f

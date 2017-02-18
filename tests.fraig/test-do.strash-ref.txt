@@ -1,0 +1,58 @@
+fraig> cirr strash10.aag
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           2
+  PO           1
+  AIG          1
+------------------
+  Total        4
+
+fraig> cirp -pi
+PIs of the circuit: 1 2
+
+fraig> cirp -po
+POs of the circuit: 4
+
+fraig> cirp -n
+
+[0] PI  1
+[1] CONST0
+[2] AIG 3 1 0
+[3] PO  4 3
+
+fraig> cirp -fl
+Gates defined but not used  : 2
+
+fraig> cirstrash
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           2
+  PO           1
+  AIG          1
+------------------
+  Total        4
+
+fraig> cirp -pi
+PIs of the circuit: 1 2
+
+fraig> cirp -po
+POs of the circuit: 4
+
+fraig> cirp -n
+
+[0] PI  1
+[1] CONST0
+[2] AIG 3 1 0
+[3] PO  4 3
+
+fraig> cirp -fl
+Gates defined but not used  : 2
+
+fraig> q -f
+

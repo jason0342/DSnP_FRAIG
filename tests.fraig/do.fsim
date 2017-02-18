@@ -1,0 +1,14 @@
+cirr sim15.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+usage
+cirstrash
+usage
+cirsim -file pattern.15
+usage
+cirp -fec
+usage
+q -f

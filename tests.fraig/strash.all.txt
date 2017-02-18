@@ -1,0 +1,636 @@
+fraig> cirr strash01.aag
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           3
+  PO           2
+  AIG          4
+------------------
+  Total        9
+
+fraig> cirp -pi
+PIs of the circuit: 1 2 3
+
+fraig> cirp -po
+POs of the circuit: 8 9
+
+fraig> cirp -n
+
+[0] PI  1
+[1] PI  3
+[2] AIG 4 1 3
+[3] PI  2
+[4] AIG 6 4 2
+[5] PO  8 6
+[6] AIG 5 3 1
+[7] AIG 7 2 5
+[8] PO  9 7
+
+fraig> cirp -fl
+
+fraig> cirstrash
+Strashing: 4 merging 5...
+Strashing: 6 merging 7...
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           3
+  PO           2
+  AIG          2
+------------------
+  Total        7
+
+fraig> cirp -pi
+PIs of the circuit: 1 2 3
+
+fraig> cirp -po
+POs of the circuit: 8 9
+
+fraig> cirp -n
+
+[0] PI  1
+[1] PI  3
+[2] AIG 4 1 3
+[3] PI  2
+[4] AIG 6 4 2
+[5] PO  8 6
+[6] PO  9 6
+
+fraig> cirp -fl
+
+fraig> q -f
+
+fraig> cirr strash02.aag
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           3
+  PO           2
+  AIG          4
+------------------
+  Total        9
+
+fraig> cirp -pi
+PIs of the circuit: 1 2 3
+
+fraig> cirp -po
+POs of the circuit: 8 9
+
+fraig> cirp -n
+
+[0] PI  1
+[1] PI  3
+[2] AIG 4 !1 3
+[3] PI  2
+[4] AIG 6 4 !2
+[5] PO  8 6
+[6] AIG 5 3 !1
+[7] AIG 7 2 !5
+[8] PO  9 7
+
+fraig> cirp -fl
+
+fraig> cirstrash
+Strashing: 4 merging 5...
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           3
+  PO           2
+  AIG          3
+------------------
+  Total        8
+
+fraig> cirp -pi
+PIs of the circuit: 1 2 3
+
+fraig> cirp -po
+POs of the circuit: 8 9
+
+fraig> cirp -n
+
+[0] PI  1
+[1] PI  3
+[2] AIG 4 !1 3
+[3] PI  2
+[4] AIG 6 4 !2
+[5] PO  8 6
+[6] AIG 7 2 !4
+[7] PO  9 7
+
+fraig> cirp -fl
+
+fraig> q -f
+
+fraig> cirr strash03.aag
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           3
+  PO           2
+  AIG          4
+------------------
+  Total        9
+
+fraig> cirp -pi
+PIs of the circuit: 1 2 3
+
+fraig> cirp -po
+POs of the circuit: 8 9
+
+fraig> cirp -n
+
+[0] PI  1
+[1] PI  3
+[2] AIG 4 !1 3
+[3] PI  2
+[4] AIG 6 4 2
+[5] PO  8 6
+[6] AIG 5 !3 1
+[7] AIG 7 2 5
+[8] PO  9 7
+
+fraig> cirp -fl
+
+fraig> cirstrash
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           3
+  PO           2
+  AIG          4
+------------------
+  Total        9
+
+fraig> cirp -pi
+PIs of the circuit: 1 2 3
+
+fraig> cirp -po
+POs of the circuit: 8 9
+
+fraig> cirp -n
+
+[0] PI  1
+[1] PI  3
+[2] AIG 4 !1 3
+[3] PI  2
+[4] AIG 6 4 2
+[5] PO  8 6
+[6] AIG 5 !3 1
+[7] AIG 7 2 5
+[8] PO  9 7
+
+fraig> cirp -fl
+
+fraig> q -f
+
+fraig> cirr strash04.aag
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           3
+  PO           2
+  AIG          4
+------------------
+  Total        9
+
+fraig> cirp -pi
+PIs of the circuit: 1 2 3
+
+fraig> cirp -po
+POs of the circuit: 8 9
+
+fraig> cirp -n
+
+[0] PI  3
+[1] PI  1
+[2] AIG 4 3 !1
+[3] PI  2
+[4] AIG 6 4 !2
+[5] PO  8 6
+[6] AIG 5 1 !3
+[7] AIG 7 2 5
+[8] PO  9 7
+
+fraig> cirp -fl
+
+fraig> cirstrash
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           3
+  PO           2
+  AIG          4
+------------------
+  Total        9
+
+fraig> cirp -pi
+PIs of the circuit: 1 2 3
+
+fraig> cirp -po
+POs of the circuit: 8 9
+
+fraig> cirp -n
+
+[0] PI  3
+[1] PI  1
+[2] AIG 4 3 !1
+[3] PI  2
+[4] AIG 6 4 !2
+[5] PO  8 6
+[6] AIG 5 1 !3
+[7] AIG 7 2 5
+[8] PO  9 7
+
+fraig> cirp -fl
+
+fraig> q -f
+
+fraig> cirr strash05.aag
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           3
+  PO           2
+  AIG          4
+------------------
+  Total        9
+
+fraig> cirp -pi
+PIs of the circuit: 1 2 3
+
+fraig> cirp -po
+POs of the circuit: 9 10
+
+fraig> cirp -n
+
+[0] PI  1
+[1] AIG 4 1 *8
+[2] PI  2
+[3] AIG 6 4 2
+[4] PO  9 6
+[5] AIG 5 *8 1
+[6] AIG 7 2 5
+[7] PO  10 7
+
+fraig> cirp -fl
+Gates with floating fanin(s): 4 5
+Gates defined but not used  : 3
+
+fraig> cirstrash
+Strashing: 4 merging 5...
+Strashing: 6 merging 7...
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           3
+  PO           2
+  AIG          2
+------------------
+  Total        7
+
+fraig> cirp -pi
+PIs of the circuit: 1 2 3
+
+fraig> cirp -po
+POs of the circuit: 9 10
+
+fraig> cirp -n
+
+[0] PI  1
+[1] AIG 4 1 *8
+[2] PI  2
+[3] AIG 6 4 2
+[4] PO  9 6
+[5] PO  10 6
+
+fraig> cirp -fl
+Gates with floating fanin(s): 4
+Gates defined but not used  : 3
+
+fraig> q -f
+
+fraig> cirr strash06.aag
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           2
+  PO           1
+  AIG          6
+------------------
+  Total        9
+
+fraig> cirp -pi
+PIs of the circuit: 1 2
+
+fraig> cirp -po
+POs of the circuit: 11
+
+fraig> cirp -n
+
+[0] PI  1
+[1] PI  2
+[2] AIG 3 1 2
+[3] PO  11 3
+
+fraig> cirp -fl
+Gates with floating fanin(s): 7
+Gates defined but not used  : 9 10
+
+fraig> cirstrash
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           2
+  PO           1
+  AIG          6
+------------------
+  Total        9
+
+fraig> cirp -pi
+PIs of the circuit: 1 2
+
+fraig> cirp -po
+POs of the circuit: 11
+
+fraig> cirp -n
+
+[0] PI  1
+[1] PI  2
+[2] AIG 3 1 2
+[3] PO  11 3
+
+fraig> cirp -fl
+Gates with floating fanin(s): 7
+Gates defined but not used  : 9 10
+
+fraig> q -f
+
+fraig> cirr strash07.aag
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           2
+  PO           1
+  AIG          3
+------------------
+  Total        6
+
+fraig> cirp -pi
+PIs of the circuit: 1 2
+
+fraig> cirp -po
+POs of the circuit: 6
+
+fraig> cirp -n
+
+[0] PI  1
+[1] PI  2
+[2] AIG 3 1 2
+[3] AIG 4 2 1
+[4] AIG 5 3 4
+[5] PO  6 5
+
+fraig> cirp -fl
+
+fraig> cirstrash
+Strashing: 3 merging 4...
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           2
+  PO           1
+  AIG          2
+------------------
+  Total        5
+
+fraig> cirp -pi
+PIs of the circuit: 1 2
+
+fraig> cirp -po
+POs of the circuit: 6
+
+fraig> cirp -n
+
+[0] PI  1
+[1] PI  2
+[2] AIG 3 1 2
+[3] AIG 5 3 3
+[4] PO  6 5
+
+fraig> cirp -fl
+
+fraig> q -f
+
+fraig> cirr strash08.aag
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           2
+  PO           1
+  AIG          3
+------------------
+  Total        6
+
+fraig> cirp -pi
+PIs of the circuit: 1 2
+
+fraig> cirp -po
+POs of the circuit: 6
+
+fraig> cirp -n
+
+[0] PI  1
+[1] PI  2
+[2] AIG 3 1 2
+[3] AIG 4 !2 !1
+[4] AIG 5 3 4
+[5] PO  6 5
+
+fraig> cirp -fl
+
+fraig> cirstrash
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           2
+  PO           1
+  AIG          3
+------------------
+  Total        6
+
+fraig> cirp -pi
+PIs of the circuit: 1 2
+
+fraig> cirp -po
+POs of the circuit: 6
+
+fraig> cirp -n
+
+[0] PI  1
+[1] PI  2
+[2] AIG 3 1 2
+[3] AIG 4 !2 !1
+[4] AIG 5 3 4
+[5] PO  6 5
+
+fraig> cirp -fl
+
+fraig> q -f
+
+fraig> cirr strash09.aag
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           2
+  PO           2
+  AIG          5
+------------------
+  Total        9
+
+fraig> cirp -pi
+PIs of the circuit: 1 2
+
+fraig> cirp -po
+POs of the circuit: 8 9
+
+fraig> cirp -n
+
+[0] PI  1
+[1] PI  2
+[2] AIG 4 1 2
+[3] AIG 5 !1 !2
+[4] AIG 6 4 5
+[5] PO  8 6
+[6] AIG 3 2 1
+[7] AIG 7 5 3
+[8] PO  9 7
+
+fraig> cirp -fl
+
+fraig> cirstrash
+Strashing: 4 merging 3...
+Strashing: 6 merging 7...
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           2
+  PO           2
+  AIG          3
+------------------
+  Total        7
+
+fraig> cirp -pi
+PIs of the circuit: 1 2
+
+fraig> cirp -po
+POs of the circuit: 8 9
+
+fraig> cirp -n
+
+[0] PI  1
+[1] PI  2
+[2] AIG 4 1 2
+[3] AIG 5 !1 !2
+[4] AIG 6 4 5
+[5] PO  8 6
+[6] PO  9 6
+
+fraig> cirp -fl
+
+fraig> q -f
+
+fraig> cirr strash10.aag
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           2
+  PO           1
+  AIG          1
+------------------
+  Total        4
+
+fraig> cirp -pi
+PIs of the circuit: 1 2
+
+fraig> cirp -po
+POs of the circuit: 4
+
+fraig> cirp -n
+
+[0] PI  1
+[1] CONST0
+[2] AIG 3 1 0
+[3] PO  4 3
+
+fraig> cirp -fl
+Gates defined but not used  : 2
+
+fraig> cirstrash
+
+fraig> cirp
+
+Circuit Statistics
+==================
+  PI           2
+  PO           1
+  AIG          1
+------------------
+  Total        4
+
+fraig> cirp -pi
+PIs of the circuit: 1 2
+
+fraig> cirp -po
+POs of the circuit: 4
+
+fraig> cirp -n
+
+[0] PI  1
+[1] CONST0
+[2] AIG 3 1 0
+[3] PO  4 3
+
+fraig> cirp -fl
+Gates defined but not used  : 2
+
+fraig> q -f
+

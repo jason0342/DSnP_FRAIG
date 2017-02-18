@@ -1,0 +1,6 @@
+cirr tests.fraig/sim13.aag
+usage
+cirp
+cirsim -r
+usage
+q -f
